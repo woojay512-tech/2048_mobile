@@ -1,0 +1,15 @@
+Godot Engine v4.6.1.stable.steam.14d19694e - https://godotengine.org
+D3D12 12_0 - Forward Mobile - Using Device #0: NVIDIA - NVIDIA GeForce RTX 3050
+
+ERROR: Invalid new child index: 15.
+   at: move_child (scene/main/node.cpp:520)
+   GDScript backtrace (most recent call first):
+       [0] spawn_random_tile (res://main.gd:54)
+       [1] setup_board (res://main.gd:30)
+       [2] _ready (res://main.gd:13)
+ERROR: Invalid new child index: 13.
+   at: move_child (scene/main/node.cpp:520)
+   GDScript backtrace (most recent call first):
+       [0] spawn_random_tile (res://main.gd:54)
+       [1] setup_board (res://main.gd:31)
+       [2] _ready (res://main.gd:13)
